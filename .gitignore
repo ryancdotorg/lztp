@@ -1,0 +1,10 @@
+build/*.js
+build/*.ts
+dist/*.ts
+dist/*.js
+lztp.js
+
+*.json
+*.class
+*.swp
+*.exclude
